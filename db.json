@@ -1,0 +1,89 @@
+{
+  "profesores": [
+    {
+      "nombre": "Leroy",
+      "apellido": "Lewis",
+      "materias": [
+        {
+          "nombre": "Redes"
+        },
+        {
+          "nombre": "Base de datos"
+        },
+        {
+          "nombre": "Platica profesional"
+        }
+      ],
+      "id": "5945"
+    },
+    {
+      "id": "8443"
+    },
+    {
+      "id": "bb14"
+    },
+    {
+      "id": "976f",
+      "nombre": "Ana",
+      "apellido": "suera",
+      "materias": [
+        {
+          "nombre": "Filosofia"
+        },
+        {
+          "nombre": "Historia"
+        },
+        {
+          "nombre": "Geografia"
+        }
+      ]
+    },
+    {
+      "id": "0b7c",
+      "nombre": "Ana",
+      "apellido": "suera",
+      "materias": [
+        {
+          "nombre": "Filosofia"
+        },
+        {
+          "nombre": "Historia"
+        }
+      ]
+    }
+  ],
+  "Alucnos": [
+    {
+      "nombre": "Patrick",
+      "apellido": "Martinez",
+      "promedio": 10,
+      "id": "1f3f"
+    },
+    {
+      "nombre": "Hilary",
+      "apellido": "hoyte",
+      "promedio": 8.2,
+      "id": "f7c7"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Base de datos",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "0a97"
+    },
+    {
+      "nombre": "Redes",
+      "duracion": 10,
+      "dificultad": "dificil",
+      "id": "5f4d"
+    },
+    {
+      "nombre": "Platica profesional",
+      "duracion": 4,
+      "dificultad": "facil",
+      "id": "491f"
+    }
+  ]
+}
